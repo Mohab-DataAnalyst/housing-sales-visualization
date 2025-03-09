@@ -2,7 +2,7 @@
 ![Logo](https://images.axios.com/95xfaTrnGGzhWHrvRJRT03jIT2k=/0x195:6286x3731/1920x1080/2024/07/29/1722275126087.jpg?w=1920)
 
 
-# King County, Washington House Sales Dashboard (Tableau) 🏡📊
+# King County, Washington House Sales Visualization (Tableau) 🏡📊
 
 This **interactive dashboard** provides insights into house sales in **King County, Washington**, using various filters and visualizations. It enables users to explore **trends in house prices, distribution of key housing attributes, and relationships between view quality and condition ratings**.
 
